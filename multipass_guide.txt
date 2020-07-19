@@ -42,3 +42,4 @@ all set up.
 
 
 
+https://www.digitalocean.com/community/questions/error-permission-denied-publickey-when-i-try-to-ssh
