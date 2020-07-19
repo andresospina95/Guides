@@ -10,7 +10,8 @@ multipass launch <name> ---> for start using that enviroment
 
 multipass shell <ame> ---> for getting console as linux native
 
-with those steps youu can star using linux shell as you do it in linux OS, When you finish don't forget to Stop the enviroment, remember that it's running with your computer resources.
+with those steps youu can star using linux shell as you do it in linux OS, When you finish don't forget to Stop the enviroment,
+remember that it's running with your computer resources.
 
 
 multipass stop <name> ---> for turning off th enviroment
