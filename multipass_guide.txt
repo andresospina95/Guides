@@ -29,4 +29,15 @@ use:
 multipass help ---> if you need help with other command of want to configurate aditional features.
 
 
------------------------------------------------------------------------------------------------------------------
+
+find the ssh_key.pub and paste it in authorized_keys in the server 
+then run following command in the client to stablish authonthication:
+ssh-copy-id <username>@xxx.xxx.xx.x  ip adress in the "x" 
+
+all set up.
+
+---------------------------------------------------------------------------------------------------
+
+
+
+
